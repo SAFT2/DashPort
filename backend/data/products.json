@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation",
+    "price": 199.99,
+    "category": "Electronics",
+    "stock": 50,
+    "image": "/uploads/products/product-123456789.jpg",
+    "status": "in_stock",
+    "sku": "ELEC-001",
+    "rating": 4.5,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Office Chair",
+    "description": "Ergonomic office chair with lumbar support",
+    "price": 299.99,
+    "category": "Furniture",
+    "stock": 25,
+    "image": "/uploads/products/product-987654321.jpg",
+    "status": "in_stock",
+    "sku": "FURN-001",
+    "rating": 4.2,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-05T00:00:00.000Z"
+  }
+]

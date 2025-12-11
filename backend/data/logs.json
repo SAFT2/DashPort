@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "action": "GET /api/dashboard/stats",
+    "method": "GET",
+    "endpoint": "/api/dashboard/stats",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "ip": "127.0.0.1",
+    "duration": "45ms",
+    "timestamp": "2024-01-15T10:30:00.000Z"
+  }
+]

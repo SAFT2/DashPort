@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "name": "Administrator",
+    "role": "admin",
+    "status": "active",
+    "avatar": null,
+    "lastLogin": "2024-01-15T10:30:00.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "username": "user1",
+    "email": "user1@example.com",
+    "password": "user123",
+    "name": "John Doe",
+    "role": "user",
+    "status": "active",
+    "avatar": null,
+    "lastLogin": null,
+    "createdAt": "2024-01-10T14:20:00.000Z",
+    "updatedAt": "2024-01-10T14:20:00.000Z"
+  }
+]

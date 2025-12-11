@@ -1,0 +1,12 @@
+{
+  "name": "admin-dashboard-frontend",
+  "version": "1.0.0",
+  "description": "Admin Dashboard Frontend",
+  "scripts": {
+    "start": "live-server public --port=3000",
+    "build": "echo 'No build step for vanilla JS'"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
